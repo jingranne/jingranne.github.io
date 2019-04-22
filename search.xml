@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F04%2F22%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <title><![CDATA[思维导图]]></title>
+    <url>%2F2019%2F04%2F22%2FlearnMap%2F</url>
+    <content type="text"><![CDATA[习惯使用Xmind学习和总结知识点，此文章用来做个合集，持续更新。xmind文件含有多个主题画布导出图片显示不全，直接xmind文件浏览更佳。文件分享方式为百度云：]]></content>
+      <categories>
+        <category>思维导图</category>
+      </categories>
+      <tags>
+        <tag>思维导图</tag>
+      </tags>
   </entry>
 </search>
